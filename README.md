@@ -1,10 +1,8 @@
 **This project:**
 
-*Using SARIMAX as main model and forecasted the one year growth for laon portfolio balance
-
-*Introduced 10 year treasury rate as exogenous variable 
-
-*Improved RMSE and MAE by 0.1 compared with ARIMA model
+- Using SARIMAX as main model and forecasted the one year growth for laon portfolio balance
+- Introduced 10 year treasury rate as exogenous variable 
+- Improved RMSE and MAE by 0.1 compared with ARIMA model
 
 
 **Documents:**
