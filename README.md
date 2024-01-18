@@ -5,7 +5,7 @@ Introduced 10 year treasury rate as exogenous variable
 Improved RMSE and MAE by 0.1 compared with ARIMA model
 
 
-**Documents: **
+**Documents:**
 
 SARIMAX Model.ipynb: code and explanation
 loan_head.csv: the loan portfolio of 1000 loans from 2018-07-01 to 2022-06-01
